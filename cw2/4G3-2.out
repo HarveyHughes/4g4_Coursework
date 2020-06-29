@@ -1,0 +1,11 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.2}{Hopfield network}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{ Theoretical error probability}{section.2}% 3
+\BOOKMARK [2][-]{subsection.2.2}{ Simulations}{section.2}% 4
+\BOOKMARK [2][-]{subsection.2.3}{Noise}{section.2}% 5
+\BOOKMARK [1][-]{section.3}{Physiological model of a spiking neuron}{}% 6
+\BOOKMARK [2][-]{subsection.3.1}{ Constant pulse}{section.3}% 7
+\BOOKMARK [2][-]{subsection.3.2}{ Variable period}{section.3}% 8
+\BOOKMARK [2][-]{subsection.3.3}{ Variable pulse}{section.3}% 9
+\BOOKMARK [2][-]{subsection.3.4}{ Negative pulse}{section.3}% 10
+\BOOKMARK [2][-]{subsection.3.5}{Conclusions}{section.3}% 11
